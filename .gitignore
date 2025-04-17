@@ -1,0 +1,24 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+*.env
+*.venv/
+tars-qenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hugging Face cache
+.cache/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
